@@ -1,0 +1,1 @@
+Financial Calculator Project - It will help you to track the svings, investment and expenses based on the income. It makes your life easier.
